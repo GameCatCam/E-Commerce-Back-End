@@ -23,7 +23,8 @@ It is installed merely by downloading the files. Make sure before running that y
 This application can be used as an example for how to make something like this. But mostly it's just for fun!
 
 Here is a link to a walkthrough video on how to use the application!
-[]()
+
+[Tutorial Video](https://drive.google.com/file/d/1WQwC2-bUvrEioCrilByRukUUBBc8zWFJ/view)
 
 ## License
 
